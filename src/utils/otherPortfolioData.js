@@ -9,11 +9,11 @@ function OtherProjectCard(otherTitle, otherAbout, otherImgURL, otherSiteURL){
 
 }
 
-const HealthFrontiers = new OtherProjectCard(
-    "Health Frontiers",
-    "A squarespace website for the non profit organization Health Frontiers/ Fornteras Saludables",
+const OtherTechSite = new OtherProjectCard(
+    "Seattle Foundation",
+    "A squarespace website for the non profit organization ",
     HealthFrontiersPic,
-    "https://www.fronterassaludables.org/",
+    "https://www.seattlefoundation.org/",
 );
 
 const DevBun = new OtherProjectCard(
@@ -23,6 +23,6 @@ const DevBun = new OtherProjectCard(
     "https://www.devbun.com/",
 );
 
-let otherPortfolioData = [HealthFrontiers, DevBun ];
+let otherPortfolioData = [OtherTechSite, DevBun ];
 
 export default otherPortfolioData;

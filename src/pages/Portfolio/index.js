@@ -8,7 +8,7 @@ import portfolioData from "../../utils/portfolioData";
 import otherPortfolioData from "../../utils/otherPortfolioData"
 import imageURL from "../../images/background.jpg";
 import OtherPortfolioCard from "../../components/OtherPortfolioCard";
-
+import "./style.css"
 
 function Portfolio() {
     return (
