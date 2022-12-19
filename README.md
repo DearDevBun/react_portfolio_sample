@@ -1,4 +1,4 @@
-# react_portfolio_sample
+# DevBun's Reactjs Portfolio Tutorial
 
 Some may say that building a Reactjs portfolio is a waste of Reactjs power, as in, it can be used for much more powerful applications. To that, I say, "yes, yes that's true, but I don't care you elitist", so here is a simple react portfolio tutorial to help you both learn the framework and also get a great portfolio out of the exercise. 
 
